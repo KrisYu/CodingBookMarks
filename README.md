@@ -33,3 +33,8 @@
 <http://docs.oracle.com/javase/7/docs/api/java/util/concurrent/locks/Condition.html>
 
 <http://stackoverflow.com/questions/20110013/implement-your-own-blocking-queue-in-java>
+
+
+###Memory Translation 
+
+<http://programmers.stackexchange.com/questions/178921/how-many-bits-address-is-required-for-a-computer-with-n-bytes-of-memory?>
