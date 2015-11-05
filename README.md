@@ -25,6 +25,26 @@
 <http://stackoverflow.com/questions/8480640/how-to-throw-a-c-exception>
 
 
+### C++ sort
+<http://stackoverflow.com/questions/5897319/how-to-use-stdsort-to-sort-an-array-in-c>
+
+```
+#include <algorithm>
+
+static const size_t v_size = 2000;
+int v[v_size];
+// Fill the array by values
+std::sort(v,v+v_size); 
+
+```
+
+### C++ compile on Mac
+
+<http://stackoverflow.com/questions/24462973/why-won-t-this-simple-c-code-compile-with-clang>
+
+```
+$ clang++ -std=c++11 -stdlib=libc++ t.cpp
+```
 
 #OS
 
