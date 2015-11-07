@@ -63,6 +63,16 @@ $ clang++ -std=c++11 -stdlib=libc++ t.cpp
 <http://stackoverflow.com/questions/11573457/java-processbuilder-input-output-stream>
 
 
+###Implements VS Extends
+<http://stackoverflow.com/questions/10839131/implements-vs-extends-when-to-use-whats-the-difference>
+
+###A java file multiple classes
+<http://stackoverflow.com/questions/968347/can-a-java-file-have-more-than-one-class>
+
+### Difference between try/catch and throw
+<http://stackoverflow.com/questions/3794910/difference-between-try-catch-and-throw-in-java>
+
+
 #Discrete Math
 
 
