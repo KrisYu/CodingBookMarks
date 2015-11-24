@@ -25,6 +25,22 @@
 <http://stackoverflow.com/questions/8480640/how-to-throw-a-c-exception>
 
 
+### Vector VS. List
+
+<http://stackoverflow.com/questions/2209224/vector-vs-list-in-stl>
+
+
+### Prim VS. Dijkstra
+<http://stackoverflow.com/questions/14144279/difference-between-prims-and-dijkstras-algorithm>
+
+### Vector iteration
+
+<http://stackoverflow.com/questions/409348/iteration-over-vector-in-c>
+
+### Array of List
+
+<http://stackoverflow.com/questions/17897943/array-of-stdlist-c>
+
 ### C++ sort
 <http://stackoverflow.com/questions/5897319/how-to-use-stdsort-to-sort-an-array-in-c>
 
@@ -71,6 +87,37 @@ $ clang++ -std=c++11 -stdlib=libc++ t.cpp
 
 ### Difference between try/catch and throw
 <http://stackoverflow.com/questions/3794910/difference-between-try-catch-and-throw-in-java>
+
+
+### CPU bound VS I/O bound
+
+<http://stackoverflow.com/questions/868568/what-do-the-terms-cpu-bound-and-i-o-bound-mean>
+
+
+### Run a jar file
+
+<http://stackoverflow.com/questions/5774970/run-jar-file-in-command-prompt>
+
+###Java - Sockets
+
+<https://www.youtube.com/watch?v=6G_W54zuadg>
+
+
+### Add external jar to Eclipse
+
+<https://www.genuitec.com/forums/topic/the-import-org-apache-log4j-can-not-be-resolved/>
+
+
+### Use Junit test
+<https://courses.cs.washington.edu/courses/cse143/11wi/eclipse-tutorial/junit.shtml>
+
+### Exception handle
+<http://blog.csdn.net/hguisu/article/details/6155636>
+
+
+### Throwable and Exception 
+<http://stackoverflow.com/questions/2274102/difference-between-using-throwable-and-exception-in-a-try-catch>
+
 
 
 #Discrete Math
